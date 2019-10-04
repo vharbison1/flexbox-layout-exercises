@@ -1,0 +1,30 @@
+#wrapper
+{
+    width:100%;
+}
+
+.checker-row
+{
+    display:flex;
+}
+
+.checker-blue
+{
+    background-color:lightskyblue;
+    width:50px;
+    height:50px;
+}
+
+.checker-black
+{
+    background-color:black;
+    width:50px;
+    height:50px;
+}
+
+.reverse-pattern 
+{
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+
